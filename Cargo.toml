@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "babelfont-rs",
+    "designspace",
+    "fonticulus",
+    "fonttools",
+    "fonttools-cli",
+    "openstep-plist",
+    "otspec",
+    "otspec_macros",
+]
